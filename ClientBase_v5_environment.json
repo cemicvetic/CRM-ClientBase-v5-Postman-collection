@@ -1,0 +1,57 @@
+{
+	"id": "f1a7c7a8-195d-481e-81d6-2817a0358821",
+	"name": "CBv5",
+	"values": [
+		{
+			"key": "baseurl",
+			"value": "https://clientbase-server.herokuapp.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "email",
+			"value": "lolacoon@gmail.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "password",
+			"value": "123123",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "testEmail",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "userId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "trimmedEmail",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "clientid",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-01-04T21:17:23.954Z",
+	"_postman_exported_using": "Postman/10.21.11-240102-2003"
+}
